@@ -1,10 +1,10 @@
 ## Welcome to My World
+![](/docs/img/self.JPG)
 
 I am a first year CS PhD student at Georgia Institute of Technology, advised by Dr. Wenke Lee. My research interests are program analysis, memory forensics and binary exploitation.
-```
-[[https://github.com/dzhang20/DingZhang/blob/main/docs/img/self.JPG|alt=self]]
 
-```
+
+
 ### CTF
 
 ```markdown
