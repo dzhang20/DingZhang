@@ -1,4 +1,4 @@
-## Welcome to My World
+# Welcome to My World
 
 <a href="url"><img src="https://github.com/dzhang20/DingZhang/blob/main/docs/img/self2.JPG?raw=true" align="left" height="250" width="250" ></a>
 
@@ -7,7 +7,7 @@ I am a first year CS PhD student at Georgia Institute of Technology, advised by 
 
 
 
-### CTF
+## CTF
 
 ```markdown
 
@@ -16,12 +16,12 @@ I love to play CTF and I am a member of
 ```
 
 
-### Awards
+## Awards
 
 1. TCTF 2021 second place
 2. TKCTF 2020 second place
 
-### Contact
+## Contact
 
 ```
 Email: dzhang377@gatech.edu
