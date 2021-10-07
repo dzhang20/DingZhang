@@ -1,6 +1,6 @@
 ## Welcome to My World
 ```
-![](https://github.com/dzhang20/DingZhang/blob/main/docs/img/self.JPG = 250x250)
+<a href="url"><img src="https://github.com/dzhang20/DingZhang/blob/main/docs/img/self.JPG" align="left" height="48" width="48" ></a>
 ```
 ![](https://github.com/dzhang20/DingZhang/blob/main/docs/img/self.JPG?raw=true|width=20)
 
