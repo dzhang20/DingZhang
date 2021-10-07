@@ -2,7 +2,7 @@
 
 I am a first year CS PhD student at Georgia Institute of Technology, advised by Dr. Wenke Lee. My research interests are program analysis, memory forensics and binary exploitation.
 ```
-![Image](/docs/img/self.JPG "ALT")
+![/docs/img/self.JPG](/docs/img/self.JPG)
 
 ```
 ### CTF
