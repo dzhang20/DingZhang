@@ -1,5 +1,5 @@
 ## Welcome to My World
-![](/docs/img/self.JPG|width=100)
+![](/docs/img/self.JPG =250x250)
 
 I am a first year CS PhD student at Georgia Institute of Technology, advised by Dr. Wenke Lee. My research interests are program analysis, memory forensics and binary exploitation.
 
